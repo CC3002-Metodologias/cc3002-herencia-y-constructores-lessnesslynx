@@ -12,4 +12,8 @@ public class Academico extends Persona {
         System.out.println("Paper");
     }
 
+    public String hacerLoSuyo() {
+        return "Aprendiendo zoom";
+    }
+
 }

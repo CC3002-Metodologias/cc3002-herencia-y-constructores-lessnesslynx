@@ -12,4 +12,7 @@ public class Estudiante extends Persona {
         System.out.println("ZzzZzZ");
     }
 
+    public String hacerLoSuyo() {
+        return "Netflix y Crunchyroll";
+    }
 }
